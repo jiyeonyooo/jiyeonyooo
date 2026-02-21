@@ -24,3 +24,15 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </div>
+<br />
+<br />
+
+## 📊 Statistics
+
+<div>
+  <img
+    alt="algorithms"
+    src="https://mazassumnida.wtf/api/generate_badge?boj=dbwldus8736"
+    width="42%"
+  />
+</div>
