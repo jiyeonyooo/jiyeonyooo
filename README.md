@@ -28,22 +28,23 @@
 <br />
 
 ## 📊 Statistics
-<div align="center">
+<div>
   <div style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
-    <img
-      alt="algorithms"
-      src="https://mazassumnida.wtf/api/generate_badge?boj=dbwldus8736"
-      width="42%"
+         <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=jiyeonyooo"
+       height="200px"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=jiyeonyooo&bg_color=180,00000000,00000000&title_color=006aff&text_color=000000&icon_color=006aff"
-      width="42%"
+      height="200px"
     />
   </div>
 
-  <div style="margin-top:20px;">
+  <div style="margin-top:50px;">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jiyeonyooo"
+      alt="algorithms"
+      src="https://mazassumnida.wtf/api/generate_badge?boj=dbwldus8736"
+      width="40%"
     />
   </div>
 </div>
