@@ -1,11 +1,11 @@
-## Yoo JiYeon
-안녕하세요🖐️ **기능을 넘어 경험을 만드는 개발자** 유지연입니다.
+## 🖐️ Profile
+안녕하세요! **기능을 넘어 경험을 만드는 개발자** 유지연입니다.
 - 🎓 Computer Science @ Korea University  `21.09 ~ 26.08`<br />
 - 💼 Software Engineer @ Samsung SDS  `26.07 ~ Present`<br />
 
 <br />
 
-## My values
+## 🔥 Values
 - 📚 모르는 것을 두려워하지 않고, 배우는 과정을 즐깁니다.<br />
 - 💡 기능보다 그 기능을 사용하는 사람의 경험을 먼저 생각합니다.<br />
 - 🤝 좋은 결과는 좋은 협업에서 나온다고 믿습니다.<br />
