@@ -5,13 +5,6 @@
 
 <br />
 
-## 🔥 Values
-📚 모르는 것을 두려워하지 않고, **배우는 과정**을 즐깁니다. <br />
-🙋‍♀️ 기능보다 그 기능을 사용하는 **사람의 경험**을 먼저 생각합니다.<br />
-🫂 좋은 결과는 **좋은 협업**에서 나온다고 믿습니다.<br />
-
-<br />
-
 ## 🚀 Tech Skills
 <table>
   <tr>
@@ -25,7 +18,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
     </td>
   </tr>
 
@@ -74,13 +66,3 @@
 </table>
 
 <br />
-
-## 📊 Statistics
-<div>
-  <div style="display:flex; justify-content:center; align-items:center; gap:30px; flex-wrap:nowrap;">
-         <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jiyeonyooo"
-       height="200px"
-    />
-  </div>
-</div>
